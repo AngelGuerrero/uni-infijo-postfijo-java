@@ -1,0 +1,17 @@
+/*
+Nombre del programa:
+Autor: Luis Ángel De Santiago Guerrero
+Última fecha de modificación: 
+*/
+/* 
+    Created on : 5/02/2018, 01:04:50 PM
+    Author     : Angel
+*/
+
+
+#miboton {
+}
+VBox {
+    -fx-spacing: 10;
+    -fx-padding: 10;
+}
